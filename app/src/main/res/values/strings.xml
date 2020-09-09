@@ -1,0 +1,91 @@
+<resources>
+
+    <string name="app_name">Silap OPT</string>
+    <string name="masuk">LOGIN</string>
+    <string name="masukkan_password">Password</string>
+    <string name="masukkan_username">NIP Pengelola / Email</string>
+    <string name="usernamekosong">Username tidak boleh kosong</string>
+    <string name="passwordkosong">Password tidak boleh kosong</string>
+    <string name="selamat_datang">Selamat Datang,</string>
+    <string name="keluar">Keluar</string>
+    <string name="gambar">gambar</string>
+    <string name="title_activity_splash">MainActivity</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <string name="login_app">Login Pengelola</string>
+    <string name="ex_a">SILAP OPT adalah Sistem Pelaporan Organisme</string>
+    <string name="ex_b">Penggangu Tumbuhan dan Rekapitulasi Data OPT</string>
+    <string name="ex_c">berbasis daring:</string>
+    <string name="content_image">LogoImage</string>
+    <string name="copyright">Hak Cipta © 2020. BBPPTP Medan Jl. Asrama No. 124 Medan (20126), SUMUT, Indonesia Telp. : (061) 8470504 Email : bbpptp.medan@pertanian.go.id</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="text_username">Selamat Datang</string>
+    <string name="username">Russi</string>
+    <string name="create_petak">Buat Petak Pengamatan</string>
+    <string name="data_petak">Data Petak Pengamatan</string>
+    <string name="globa_petal">Petak Global</string>
+    <string name="iklim">Tambah Data Iklim</string>
+
+    //BarHome
+    <string name="bar_home">Beranda</string>
+    <string name="bar_dataopt">DataOPT</string>
+    <string name="bar_maps">PetakGlobal</string>
+    <string name="bar_weather">Iklim</string>
+    <string name="bar_work_plan">RencanaKerja</string>
+    <string name="user_image_nav">USER</string>
+
+    //RencanaKerja
+    <string name="header_form_kerja">Tambah Rencana Kerja</string>
+    <string name="tgl_kegiatan">Tgl.Kegiatan</string>
+    <string name="nama_kegiatan">Isian nama kegiatan</string>
+    <string name="ulasan_kegiatan">Ulasan Kegiatan</string>
+    <string name="isi_kegiatan">Isian ulasan kegiatan</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="konfirmasi">Konfirmasi</string>
+    <string name="ya">Ya</string>
+    <string name="tidak">Tidak</string>
+    <string name="konfirimasisimpan">Benarkah anda ingin menambahkan data ini?</string>
+
+    <string-array name="comodity">
+        <item>Kelapa</item>
+        <item>Kakao</item>
+        <item>Karet</item>
+        <item>Kopi</item>
+        <item>Kelapa Sawit</item>
+        <item>Cengkeh</item>
+    </string-array>
+
+    <string name="quickstart_message">Click the SUBSCRIBE TO WEATHER button below to subscribe to the
+        weather topic. Messages sent to the weather topic will be received. The LOG TOKEN button logs the
+        InstanceID token to logcat.</string>
+    <string name="subscribe_to_weather">Subscribe To Weather</string>
+    <string name="log_token">Log Token</string>
+
+    <string name="msg_subscribed">Subscribed to weather topic</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <!--
+        This is the name that users will see when interacting with this channel.
+        It should describe the category of notifications that will be sent through this channel
+     -->
+    <!-- [START fcm_default_icon_string] -->
+    <string name="default_notification_channel_name" translatable="true">Weather</string>
+    <!-- [END fcm_default_icon_string] -->
+    <string name="msg_subscribe_failed">Failed to subscribe to weather topic</string>
+    <string name="fcm_message">FCM Message</string>
+
+</resources>

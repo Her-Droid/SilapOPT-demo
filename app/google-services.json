@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "441744199037",
+    "firebase_url": "https://silapopt-89689.firebaseio.com",
+    "project_id": "silapopt-89689",
+    "storage_bucket": "silapopt-89689.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441744199037:android:51c509c9c15b04a205d014",
+        "android_client_info": {
+          "package_name": "com.niagait.silapopt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441744199037-0er9nuq4lk8l0rejr6cqm6dq6fg77euh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.niagait.silapopt",
+            "certificate_hash": "931c6bd3de7ddcbbeb367eb90ce57a550a23ed53"
+          }
+        },
+        {
+          "client_id": "441744199037-6fg15uvf306gpgv4sqog9ne2d80r209p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4n7HleBTBbbw3KgD7vgiOEFfZn1oHu9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441744199037-6fg15uvf306gpgv4sqog9ne2d80r209p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

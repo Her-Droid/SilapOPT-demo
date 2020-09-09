@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/bar_home"
+      />
+    <item
+        android:id="@+id/nav_dataopt"
+        android:title="@string/bar_dataopt"
+        android:icon="@drawable/ic_baseline_data_usage_24"
+        />
+    <item
+        android:id="@+id/nav_maps"
+        android:title="@string/bar_maps"
+        android:icon="@drawable/ic_baseline_map_24"
+        />
+    <item
+        android:id="@+id/nav_weather"
+        android:title="@string/bar_weather"
+        android:icon="@drawable/ic_climate"
+        />
+    <item
+        android:id="@+id/nav_workplan"
+        android:title="@string/bar_work_plan"
+        android:icon="@drawable/ic_worker"
+        />
+</menu>
